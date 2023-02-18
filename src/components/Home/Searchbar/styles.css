@@ -1,0 +1,42 @@
+.searchbar-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.searchbar-wrap form{
+   
+    background-color: #e7e7e7;
+    width: 20%;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.searchbar-wrap input{
+    border: none;
+    outline: none;
+   padding: 0.4rem;
+   background-color: #e7e7e7;
+
+
+}
+
+.searchbar-wrap button{
+    background-color: #1053B8;
+    color: white;
+    border: none;
+    height: 1.5rem;
+    cursor: pointer;
+
+}
+.searchbar-wrap button:hover{
+    background-color: #055de0;
+
+}
+

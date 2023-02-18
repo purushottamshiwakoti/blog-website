@@ -1,0 +1,8 @@
+.blog-wrap{
+   /* background-color: aqua; */
+    display: grid;
+grid-template-columns: repeat(3,1fr);
+grid-gap:3rem;
+margin-top: 1rem;
+
+}

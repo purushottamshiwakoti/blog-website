@@ -1,0 +1,26 @@
+.login{
+    /* background-color: aqua; */
+    margin: 3rem 0 0 30rem;
+
+
+}
+.login input{
+    display: flex;
+   margin: 1rem;
+   padding: 1rem;
+   width: 50%;
+}
+ .login button{
+background-color: rgb(96, 96, 218);
+border:none;
+padding: 0.4rem;
+width: 30%;
+margin-left: 4rem;
+font-size: 1.3rem;
+color: aliceblue;
+cursor: pointer;
+}
+.login p{
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
